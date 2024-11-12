@@ -1,5 +1,9 @@
 # ngx-sheet-modal
 
+## Demo
+
+![Ngx Sheet Modal](https://firebasestorage.googleapis.com/v0/b/gestor-de-archivos-34c41.appspot.com/o/angular-components%2Fngx-sheet-modal-demo.gif?alt=media&token=f28d5873-65ff-4be0-9088-333ce98c3bce)
+
 ## Description
 
 **ngx-sheet-modal** is an Angular component designed to provide a sheet-style modal, which can be triggered from any part of the UI. The modal supports drag-and-drop functionality, smooth transitions, and flexible configuration to allow users to close the modal through various triggers like a flick gesture or a manual close button. It integrates seamlessly with Angular's reactive forms and is ideal for managing product, order, or customer data in a sleek and interactive way.
