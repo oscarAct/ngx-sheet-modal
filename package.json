@@ -1,0 +1,79 @@
+{
+  "name": "ngx-sheet-modal",
+  "version": "1.0.0",
+  "author": "Oscar Morales Davis",
+  "description": "A flexible, customizable, and responsive sheet modal component for Angular, designed to provide a smooth user experience with drag-and-drop support, resizable functionality, backdrop customization, and dynamic sheet size adjustments. Perfect for modern web applications that require a versatile and interactive modal solution with full control over positioning, appearance, and behavior.",
+  "license": "MIT",
+  "public": false,
+  "keywords": [
+    "ngx-sheet-modal",
+    "angular-modal",
+    "angular-sheet-modal",
+    "angular-ui",
+    "angular-components",
+    "sheet-modal",
+    "modal-component",
+    "ngx-modal",
+    "sheet-modal-angular",
+    "angular-resizable-modal",
+    "angular-drag-and-drop",
+    "angular-sheet",
+    "modal-ui",
+    "modal-library",
+    "angular-library",
+    "angular-resizable",
+    "angular-modals",
+    "backdrop-close",
+    "backdrop-intensity",
+    "custom-modal",
+    "dynamic-sheets",
+    "angular-sheet-library",
+    "ngx-resizable-modal",
+    "angular-animations",
+    "ngx-ui-components",
+    "angular-ui-library",
+    "angular-modal-dialog",
+    "drag-indicator",
+    "angular-backdrop",
+    "ngx-animations",
+    "angular-sheet-size",
+    "modal-backdrop",
+    "resizable-modal-angular",
+    "angular-popup",
+    "angular-sheet-dialog",
+    "ngx-sheet",
+    "responsive-modal",
+    "angular-ui-modal",
+    "angular-sheet-dialogs",
+    "angular-form-controls",
+    "customizable-modal"
+  ],
+  "repository": {
+        "type": "git",
+        "url": "git+https://github.com/oscarAct/ngx-sheet-modal.git"
+  },
+  "bugs": {
+        "url": "https://github.com/oscarAct/ngx-sheet-modal.git/issues"
+  },
+  "homepage": "https://github.com/oscarAct/ngx-sheet-modal.git/blob/master/README.md",
+  "browserslist": {
+    "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all"
+    ],
+    "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+    ]
+    },
+  "peerDependencies": {
+    "@angular/common": "^18.2.0",
+    "@angular/core": "^18.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
